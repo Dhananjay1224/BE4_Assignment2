@@ -1,5 +1,7 @@
 ## Defined GET, POST and DELETE routes to get, create or update, delete recipe data from Database.
 
+Vercel link: https://be-4-assignment2-kohl.vercel.app/
+
 ### 1) /recipes
 To get all recipes from DB
 ### 2) /recipes/:title
